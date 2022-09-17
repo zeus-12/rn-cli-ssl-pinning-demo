@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/cert1.cer",
+      "sha1": "a4b6b666407188b2fbf7c5ef1606ad857768f132"
+    },
+    {
+      "path": "src/assets/cert2.cer",
+      "sha1": "1e7ef647cba150281c60897257102878c4bd8cdc"
+    },
+    {
+      "path": "src/assets/cert3.cer",
+      "sha1": "08745487e891c19e3078c1f2a07e452950ef36f6"
+    }
+  ]
+}

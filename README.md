@@ -1,5 +1,3 @@
-# ssl pinning
-
 # Implementing SSL-Pinning using react-native-ssl on react-native-cli
 
 ```jsx
